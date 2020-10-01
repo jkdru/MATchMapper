@@ -6,3 +6,7 @@ coredata_scrapers/data/
 coredata_scrapers/samhsa_comparison_data/
 database/data/
 .vscode/
+MATchMapperEnv/
+.env
+Pipfile
+database/MATchMapper/__pycache__/
